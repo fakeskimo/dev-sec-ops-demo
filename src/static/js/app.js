@@ -177,3 +177,5 @@ function ItemDisplay({ item, onItemUpdate, onItemRemoval }) {
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
+
+// Let's test Happy path!!
